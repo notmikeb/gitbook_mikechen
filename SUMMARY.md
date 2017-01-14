@@ -5,4 +5,6 @@
     * [hexo usage](hexo-usage.md)
     * [hexo tutorial](hexo-tutorial.md)
     * [hexo troubeshooting](hexo-troubeshooting.md#install-hexo-at-local)
+* [Python Learning](python-learning.md)
+   * [Python Study Material](python-study-material.md)
 
