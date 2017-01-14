@@ -17,6 +17,18 @@ An experience sharing
 http://www.codedata.com.tw/social-coding/gitbook-self-publishing
 
 
+### re-organize the chapter and section
+Add Chapters in the left menu, "Table of Content"
+
+
+
+![](/assets/gitbook_view_edit.png)
+
+Add space in front of 'section' in the SUMMARY.MD
+![](/assets/gitbook_indent_chapter.png)
+
+
+
 
 
 
