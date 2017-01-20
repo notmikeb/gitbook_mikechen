@@ -1,4 +1,4 @@
-### Ｓnaconda
+### Anaconda
 
 anaconda 一起安裝需多套件, 算是多整合環境, 可以方便開發跟安裝.
 anaconda 使用BSD license, 可以用在commerial 環境.
