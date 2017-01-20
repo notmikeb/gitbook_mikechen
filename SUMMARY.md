@@ -8,4 +8,5 @@
 * [Python Learning](python-learning.md)
     * [Python Study Material](python-study-material.md)
 * [Redmine](redmine.md)
+* [Anaconda](anaconda.md)
 
