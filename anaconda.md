@@ -5,9 +5,8 @@ anaconda 使用BSD license, 可以用在commerial 環境.
 anaconda 使用自己的python env, 所以要使用他的anaconda console,
 執行windows menu 的anaconda juptyer, 可以在本機上有jupyter 可以使用.
 
-**Video tutorial**
-
-[install anaconda](https://www.youtube.com/watch?v=0pWJHy_fNWA)
+**Video tutorial** 
+>　[install anaconda](https://www.youtube.com/watch?v=0pWJHy_fNWA)
 
 
 ### scrapy
