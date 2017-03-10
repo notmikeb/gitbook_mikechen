@@ -1,7 +1,7 @@
 ### Jenkins
 download jenkins from official webpage
 install msbuild plugin
-id:daylong
+id: daylong
 pwd: <where>
 
 
