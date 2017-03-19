@@ -11,6 +11,9 @@ https://www.codeproject.com/articles/5498/tracetool-the-swiss-army-knife-of-trac
 ![](/assets/overview.jpg)
 
 ### python sample
+
+```
+
 import logging
 import logging.config
 from tracetool import *  #IGNORE:W0401
@@ -33,13 +36,15 @@ class CustomTraceLogger(logging.StreamHandler):
 			TTrace.debug.send(msg)
 		self.flush()
 
-#logging.basicConfig(filename='example.log',level=logging.DEBUG)
+
+
 logging.getLogger().setLevel(logging.DEBUG)
 logging.getLogger().addHandler(CustomTraceLogger())
 logging.debug('This message should go to the log file')
 logging.info('So should this')
 logging.warning('And this, too')
 logging.error("this is a error msg")
+```
 
 ### c# library TraceTool.dll
 ![](/assets/2017-03-19 21_38_12-Vs8 Windows TraceTool Dot net Library and Demos - Microsoft Visual Studio.png)
@@ -51,6 +56,7 @@ Here has some QnA
 http://stackoverflow.com/questions/11854308/why-am-i-getting-error-cs0246-the-type-or-namespace-name-could-not-be-found
 
 ### c# sample
+```
 using System;
 using TraceTool ;
 
@@ -63,15 +69,16 @@ Console.WriteLine("hello, world");
 TTrace.Flush();
 }
 }
-
+```
 
 ### compile sample
+```
 J:\temp>csc trace1.cs /r:TraceTool.dll
 Microsoft (R) Visual C# Compiler version 1.0.0.50618
 Copyright (C) Microsoft Corporation. All rights reserved.
 
 J:\temp>trace1
 hello trace
-
+```
 ![](/assets/2017-03-19 21_45_04-Trace and Object inspector Tool.png)
 
