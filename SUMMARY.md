@@ -14,4 +14,5 @@
 * [Tree-based\_Editor](tree-based_editor.md)
 * [Jenkins\_Build\_Project\_RESTAPI](jenkins_build_project_restapi.md)
 * [TraceTool](tracetool.md)
+* [vs2012\_git](vs2012git.md)
 
