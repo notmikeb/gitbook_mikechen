@@ -66,7 +66,15 @@ Visual Studio 目前已經完整的支援了 Git 指令集，所以只要是 Git
 
 
 
-https://msdn.microsoft.com/zh-tw/library/dd286572%28v=vs.120%29.aspx
+![](/assets/GitHub_VS_10.png)
+![](/assets/GitHub_VS_11.png)
+
+![](/assets/GitHub_VS_12.png)
+
+
+
+
+
 
  
 
