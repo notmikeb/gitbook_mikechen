@@ -33,14 +33,22 @@ FacebookGoogle+TwitterMore
 
 選擇「複製」Clone 然後將 GitHub 的 Repository 位置貼上後挑選期望的本機 Git 位置後按下「複製」
 
+![](/assets/GitHub_VS_05.png)
+
+
 
 完成後雙擊滑鼠左鍵選擇剛剛建立的 GitHub 本機目錄即可連結 Git 專案，預設就是 master 分支，請在此點選「新增」開始建立您的專案
 
+
 當專案開發到可以簽入的程度後，點擊「變更」
+
+![](/assets/GitHub_VS_06.png)
 
 
 
 填寫異動描述後按下「認可」即可完成 Commit 的動作
+
+![](/assets/GitHub_VS_07.png)
 
 
 
@@ -48,9 +56,13 @@ FacebookGoogle+TwitterMore
 
 
 
+![](/assets/GitHub_VS_08.png)
+
  
 
 Visual Studio 目前已經完整的支援了 Git 指令集，所以只要是 Git 有的功能都是可以達成的，在操作的過程中可能會看到提示安裝「協力廠商 Git 命令提示字元工具」這不是必須的，請參考下方連結，自行決定是否安裝
+
+![](/assets/GitHub_VS_09.png)
 
 
 
