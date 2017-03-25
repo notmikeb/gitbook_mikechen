@@ -17,4 +17,5 @@
 * [vs2012\_git](vs2012git.md)
 * [web\_bluetooth](webbluetooth.md)
 * [vs2012](vs2012.md)
+* [csharp\_bluetooth](csharpbluetooth.md)
 
