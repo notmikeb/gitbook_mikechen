@@ -14,4 +14,5 @@ could do seach but can NOT find anything
 Need to enable the "advanced web interface"
 could install the battery accessory simulation at phone
 
-![](/assets/2017-03-25 20_06_20-Web Bluetooth _ Battery Level (Async Await) Sample.png)
+![](/assets/2017-03-25 20_06_20-Web Bluetooth _ Battery Level Sample.png)
+
