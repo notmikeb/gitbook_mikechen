@@ -19,4 +19,5 @@
 * [web\_bluetooth](webbluetooth.md)
   * [csharp\_bluetooth](csharpbluetooth.md)
 * [COMPORT\_UART\_NULLMODEM](comportuart-nullmodem.md)
+* [CLASS\_OBJECT\_TO\_XML](classobject-to-xml.md)
 
