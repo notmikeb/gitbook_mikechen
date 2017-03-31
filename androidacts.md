@@ -63,5 +63,4 @@ Since the SampleTest does not require any device, it should check self.android_d
         return True
 ```
 
-
 ![](/assets/20170401_android_acts.png)
