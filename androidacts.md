@@ -50,9 +50,15 @@ J:\git_home\acts\framework>python act.py -c sample_config.json -tb SampleTestBed
 ### Fix android_devices not found
 
 Since the SampleTest does not require any device, it should check self.android_devices first
+Command Line
 `python act.py -c sample_config.json -tb SampleTestBed -tc SampleTest`
 
-`if hasattr(self, 'android_devices'):`
+Need to check whether there is any android_devices
+```
+if hasattr(self, 'android_devices'):
+```
+
+- J:\git_home\acts\tests\sample\SampleTest.py
 
 ```
     """Tests"""
@@ -62,6 +68,6 @@ Since the SampleTest does not require any device, it should check self.android_d
                 ad.droid.makeToast("Hello World.")
         return True
 
-![](/assets/20170401_android_acts.png)```
+```
 
 ![](/assets/20170401_android_acts.png)
