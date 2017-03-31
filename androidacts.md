@@ -61,6 +61,7 @@ Since the SampleTest does not require any device, it should check self.android_d
             for ad in self.android_devices:
                 ad.droid.makeToast("Hello World.")
         return True
-```
+
+![](/assets/20170401_android_acts.png)```
 
 ![](/assets/20170401_android_acts.png)
