@@ -9,7 +9,7 @@
   * [Python Study Material](python-study-material.md)
 * [Redmine](redmine.md)
 * [Anaconda](anaconda.md)
-* [SurveyHTML](surveyhtml.md)
+* [Web\_HTML\_Survey](surveyhtml.md)
 * [CodingRainbow\_fromAtoZ](codingrainbow_fromatoz.md)
 * [Tree-based\_Editor](tree-based_editor.md)
 * [TraceTool](tracetool.md)
@@ -23,4 +23,5 @@
 * [Processing](processing.md)
 * [Android\_ACTS](androidacts.md)
 * [CSharp\_COM\_Example](csharpcom-example.md)
+* [Bluetooth\_libusb\_Usage](bluetoothlibusb-usage.md)
 
