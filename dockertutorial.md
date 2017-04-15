@@ -5,10 +5,10 @@ Pull image from hub
 ```
 docker pull ubuntu
 ```
-No 
+No ifconfig. Need install net-tools
 ```
 apt-get install net-tools
-``
+```
 
 ### docker software component
 docker console: interactive command line for run instructions
