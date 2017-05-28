@@ -12,3 +12,6 @@ http://www.androidbenchmark.net/passmark_lookup.php?device=Acer+S56
 ### PyQtGraph
 PyQtGraph - Scientific Graphics and GUI Library for Python
 http://www.pyqtgraph.org/
+
+### Eric python ide
+https://eric-ide.python-projects.org/
