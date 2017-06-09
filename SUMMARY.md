@@ -27,4 +27,5 @@
 * [Bluetooth\_libusb\_Usage](bluetoothlibusb-usage.md)
 * [docker\_tutorial](dockertutorial.md)
 * [ssh\_private\_key](sshprivate-key.md)
+* [atom\_editor](atomeditor.md)
 
