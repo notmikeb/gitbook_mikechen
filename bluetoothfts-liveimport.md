@@ -1,15 +1,17 @@
 ## Bluetooth-fts-liveimport
 
-### python live import utilties - half auto tool (for debugging)
+### Tools
+* python live import utilties - half auto tool (for debugging)
   python library for injecting message
   liveimport injector by python dll 
 
-### python btsnoop reader
+* python btsnoop reader
   python live read data by open a file and inject message into protocol-analysis-system
 
-### python btsnoop writer
-
-### 說明文件
+* python btsnoop writer
+  Write frames as a btsnoop file 
+   
+### FTS liveimport 說明文件
  http://www.fte.com/WebHelpII/LiveImport/Content/Documentation/LiveImport/InstallingLiveImport/InstallingLiveImport.htm
 
 ### 下載 frontline software & 測試
