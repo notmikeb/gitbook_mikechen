@@ -34,11 +34,11 @@ monitor the socket traffic on windows
 http://www.nirsoft.net/utils/smsniff.html
 ![](/assets/smsniff.gif)
 
-* client
+*client
 
 python -m robotremoteserver test http://127.0.0.1:8088
 
-* server
+*server
 
 python server.py
 
