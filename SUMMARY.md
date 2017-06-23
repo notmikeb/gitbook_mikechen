@@ -29,4 +29,5 @@
 * [ssh\_private\_key](sshprivate-key.md)
 * [atom\_editor](atomeditor.md)
 * [Bluetooth\_fts\_liveimport](bluetoothfts-liveimport.md)
+* [python\_xmlrpc](pythonxmlrpc.md)
 
