@@ -89,3 +89,8 @@ Content-length: 302
 </params>
 </methodResponse>
 ```
+
+
+### Google android RPC
+
+![](/assets/2017-06-23 21_36_34-SmartSniff.png)
