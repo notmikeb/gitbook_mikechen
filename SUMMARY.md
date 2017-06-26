@@ -22,17 +22,14 @@
   * [Bluetooth\_wireshark\_liveimport](bluetoothwireshark-liveimport.md)
   * [Bluetooth\_fts\_liveimport](bluetoothfts-liveimport.md)
   * [Bluetooth\_libusb\_Usage](bluetoothlibusb-usage.md)
-  
-* [COMPORT\_UART\_NULLMODEM](comportuart-nullmodem.md)
 * [CLASS\_OBJECT\_TO\_XML](classobject-to-xml.md)
+* [COMPORT\_UART\_NULLMODEM](comportuart-nullmodem.md)
 * [Processing](processing.md)
 * [Android\_ACTS](androidacts.md)
 * [CSharp\_COM\_Example](csharpcom-example.md)
-
 * [docker\_tutorial](dockertutorial.md)
 * [ssh\_private\_key](sshprivate-key.md)
 * [atom\_editor](atomeditor.md)
-
 * [python\_xmlrpc](pythonxmlrpc.md)
-
+* [Bluetooth\_pyusb](bluetoothpyusb.md)
 
