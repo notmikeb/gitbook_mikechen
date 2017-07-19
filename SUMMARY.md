@@ -32,4 +32,5 @@
 * [atom\_editor](atomeditor.md)
 * [python\_xmlrpc](pythonxmlrpc.md)
 * [Bluetooth\_pyusb](bluetoothpyusb.md)
+* [git\_tutorial](gittutorial.md)
 
