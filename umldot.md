@@ -33,7 +33,7 @@ digraph G {
                 fontname = "Bitstream Vera Sans"
                 fontsize = 8
         ]
-      
+}
 ```   
 
 ### a animal class
