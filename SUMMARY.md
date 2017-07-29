@@ -33,4 +33,5 @@
 * [python\_xmlrpc](pythonxmlrpc.md)
 * [Bluetooth\_pyusb](bluetoothpyusb.md)
 * [git\_tutorial](gittutorial.md)
+* [textual graphics](textual-graphics.md)
 
