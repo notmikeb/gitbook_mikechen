@@ -8,7 +8,7 @@ https://zh.wikipedia.org/wiki/Doxygen
 Graphviz is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks
 http://www.graphviz.org/
 
-## graphviz dot visual editor
+### graphviz dot visual editor
 http://vincenthee.github.io/DotEditor/
 screenshot:
 http://vincenthee.github.io/DotEditor/images/screenshot/main_frame.png
@@ -19,8 +19,9 @@ https://www.openfoundry.org/tw/foss-programs/8820-graphviz-
 
 ![](/assets/dot_editor_script.png)
 
-
-## 
+### generate doc and pics from code
+doxygen
+https://zh.wikipedia.org/wiki/Doxygen
 
 ## UML
 uml tool
@@ -29,11 +30,13 @@ http://modeling-languages.com/uml-tools/#textual
 ## jsuml online
 use xml to export and import
 a tiny and powerful online tool
-http://www.uco.es/users/in1rosaj/tools/jsUML2/editor/index.html![](/assets/script.png)
+http://www.uco.es/users/in1rosaj/tools/jsUML2/editor/index.html
+
 
 ## argouml (not active)
-
 http://argouml.tigris.org/
+![](/assets/argouml_screenshot.png)
+
 
 ### msc_gen
 
