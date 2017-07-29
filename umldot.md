@@ -26,7 +26,7 @@ format
 ```
  <class-name> | <fields> | <methods>
 ```
-a real case
+a real case - code snippet
 ```
         Animal [
                 label = "{Animal|+ name : string\l+ age : int\l|+ die() : void\l}"
@@ -38,6 +38,7 @@ a real case
 
 ###  Animal, dot, cat 3 classes
 
+a real case with whole script content
 ```
 digraph G {
     fontname="Bitstream Vera Sans";
