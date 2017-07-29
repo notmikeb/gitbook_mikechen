@@ -1,7 +1,7 @@
 # Textual documentation
 
 ## source code graphic notation
-
+Doxygen:
 https://zh.wikipedia.org/wiki/Doxygen
 
 ## graphviz
@@ -18,10 +18,6 @@ tutorial:
 https://www.openfoundry.org/tw/foss-programs/8820-graphviz-
 
 ![](/assets/dot_editor_script.png)
-
-### generate doc and pics from code
-doxygen
-https://zh.wikipedia.org/wiki/Doxygen
 
 ## UML
 uml tool
