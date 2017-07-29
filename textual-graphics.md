@@ -24,7 +24,7 @@ http://modeling-languages.com/uml-tools/#textual
 
 ## jsuml online
 use xml to export and import
-a tiny and powerful 
+a tiny and powerful online tool
 http://www.uco.es/users/in1rosaj/tools/jsUML2/editor/index.html
 
 ## argouml (not active)
