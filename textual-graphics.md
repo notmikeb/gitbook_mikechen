@@ -2,6 +2,8 @@
 
 ## source code graphic notation
 
+https://zh.wikipedia.org/wiki/Doxygen
+
 ## graphviz
 Graphviz is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks
 http://www.graphviz.org/
@@ -39,3 +41,6 @@ http://rst.ninjs.org/
 
 ### markdown *.md online
 http://dillinger.io/
+
+### zeal
+zeal is copied from MAC's 
