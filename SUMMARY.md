@@ -34,4 +34,5 @@
 * [Bluetooth\_pyusb](bluetoothpyusb.md)
 * [git\_tutorial](gittutorial.md)
 * [textual graphics](textual-graphics.md)
+* [uml\_dot](umldot.md)
 
