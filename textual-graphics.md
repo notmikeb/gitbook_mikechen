@@ -17,6 +17,9 @@ https://stackoverflow.com/questions/3433655/free-visual-editor-for-graph-dot-fil
 tutorial:
 https://www.openfoundry.org/tw/foss-programs/8820-graphviz-
 
+![](/assets/dot_editor_script.png)
+
+
 ## 
 
 ## UML
@@ -26,7 +29,7 @@ http://modeling-languages.com/uml-tools/#textual
 ## jsuml online
 use xml to export and import
 a tiny and powerful online tool
-http://www.uco.es/users/in1rosaj/tools/jsUML2/editor/index.html
+http://www.uco.es/users/in1rosaj/tools/jsUML2/editor/index.html![](/assets/script.png)
 
 ## argouml (not active)
 
