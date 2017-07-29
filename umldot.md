@@ -1,7 +1,11 @@
 #dot 
 
 ## dot editor 
+http://vincenthee.github.io/DotEditor/
 
+## reference
+參考資料
+https://www.graphviz.org
 
 ## dot tutorial
 http://www.ffnn.nl/pages/articles/media/uml-diagrams-using-graphviz-dot.php
