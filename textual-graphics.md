@@ -12,6 +12,9 @@ http://www.graphviz.org/
 http://vincenthee.github.io/DotEditor/
 screenshot:
 http://vincenthee.github.io/DotEditor/images/screenshot/main_frame.png
+dicsussion article:
+https://stackoverflow.com/questions/3433655/free-visual-editor-for-graph-dot-files
+
 
 ## UML
 
