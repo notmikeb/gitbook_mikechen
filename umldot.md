@@ -22,13 +22,17 @@ digraph G {
 
 ### a animal class
 
+format
 ```
  <class-name> | <fields> | <methods>
 ```
-
+a real case
 ```
         Animal [
                 label = "{Animal|+ name : string\l+ age : int\l|+ die() : void\l}"
         ]
 ```
+
+![dot_animalclass](/assets/dot_animalclass.png)
+
           
