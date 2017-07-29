@@ -42,6 +42,6 @@ http://rst.ninjs.org/
 ### markdown *.md online
 http://dillinger.io/
 
-### zeal
+### zeal (GPLv3)
 zeal is a offline documentation browser
 zeal is copied from MAC's Dash application
