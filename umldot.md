@@ -9,6 +9,9 @@ https://www.graphviz.org
 
 http://www.graphviz.org/pdf/dotguide.pdf
 
+DOT language
+http://www.graphviz.org/doc/info/lang.html
+
 
 ## dot tutorial
 http://www.ffnn.nl/pages/articles/media/uml-diagrams-using-graphviz-dot.php
