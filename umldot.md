@@ -21,7 +21,11 @@ digraph G {
 ```   
 
 ### a animal class
-<class-name> | <fields> | <methods>
+
+```
+ <class-name> | <fields> | <methods>
+```
+
 ```
         Animal [
                 label = "{Animal|+ name : string\l+ age : int\l|+ die() : void\l}"
