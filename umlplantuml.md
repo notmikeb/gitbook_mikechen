@@ -1,6 +1,9 @@
 
 ## plantuml opensource GPL
 http://plantuml.com/activity-diagram-beta#simple
+sceeenshot:
+![](/assets/plantuml_screen.png)
+
 ### plantuml swimlanes
 ```
 @startuml
