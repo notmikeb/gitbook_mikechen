@@ -45,3 +45,4 @@ http://dillinger.io/
 ### zeal (GPLv3)
 zeal is a offline documentation browser
 zeal is copied from MAC's Dash application
+https://zealdocs.org/
