@@ -43,4 +43,5 @@ http://rst.ninjs.org/
 http://dillinger.io/
 
 ### zeal
+zeal is a offline documentation browser
 zeal is copied from MAC's 
