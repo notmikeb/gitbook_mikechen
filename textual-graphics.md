@@ -35,11 +35,17 @@ http://argouml.tigris.org/
 
 
 ### msc_gen
+online:
+https://mscgen.js.org/
+![](/assets/msc_gen_screenshot.png)
 
 ## Readme file
 
 ### documentation *.rst  restructure online
 http://rst.ninjs.org/
+Sample:
+Tutorial:
+
 
 ### markdown *.md online
 http://dillinger.io/
