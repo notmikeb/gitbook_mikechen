@@ -22,6 +22,11 @@ https://www.openfoundry.org/tw/foss-programs/8820-graphviz-
 uml tool
 http://modeling-languages.com/uml-tools/#textual
 
+## jsuml online
+use xml to export and import
+a tiny and powerful 
+http://www.uco.es/users/in1rosaj/tools/jsUML2/editor/index.html
+
 ## argouml (not active)
 
 http://argouml.tigris.org/
