@@ -36,4 +36,5 @@
 * [textual graphics](textual-graphics.md)
 * [uml\_dot](umldot.md)
 * [uml\_plantuml](umlplantuml.md)
+* [uml\_flow](umlflow.md)
 
