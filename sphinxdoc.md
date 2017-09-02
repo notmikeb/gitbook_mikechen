@@ -26,7 +26,11 @@ project_workspace
         source
             conf.py
             index.rst
-        _build
+        build
+            html
+                index.html
+            doctree
+                index.doctree
     run.py
 ```
 
