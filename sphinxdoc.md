@@ -75,3 +75,5 @@ Creating file source\modules.rst.
 
 > make html
 
+Open the index.html
+
