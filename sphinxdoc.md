@@ -77,13 +77,14 @@ Creating file source\modules.rst.
 
 Open the index.html
 
-
 ### change theme
 
 install the rtd theme and change theme to sphinx_rtd_theme in config.py
+
 ```
 python -m pip install sphinx_rtd_theme
 ```
+tutorial:
 https://pypi.python.org/pypi/sphinx_rtd_theme
 
 In your conf.py file:
