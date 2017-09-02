@@ -85,3 +85,10 @@ python -m pip install sphinx_rtd_theme
 ```
 https://pypi.python.org/pypi/sphinx_rtd_theme
 
+In your conf.py file:
+
+```
+import sphinx_rtd_theme
+html_theme = "sphinx_rtd_theme"
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+```
