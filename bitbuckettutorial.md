@@ -1,4 +1,6 @@
 ## How to use bitbucket
+bitbucket allows to have private repositories for free
+
 + go to apply a account at bitbucket
 https://bitbucket.org
 + create a new reposiory at bitbucket web
