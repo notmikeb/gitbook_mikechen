@@ -30,9 +30,6 @@ project_workspace
     run.py
 ```
 
-
-
-
 under docs folder
 
 sphinx_quickstart.exe
@@ -41,16 +38,7 @@ enable autodoc: Y
 separate the source of sphinx and build directories of sphinx: Y
 ```
 
-under
-sphinx-apidoc -f -o source/ ../python-module-path
-```
-J:\git_home\git1\doc>c:\python27\Scripts\sphinx-apidoc.exe -f -o source ..\mymodule1
-Creating file source\mymodule1.rst.
-Creating file source\mymodule1.b.rst.
-Creating file source\modules.rst.
-```
-
-> make html
+### Edit conf.py to include the right path and enable autodoc extension
 
 http://www.patricksoftwareblog.com/python-documentation-using-sphinx/
 enable to include source code folder
@@ -67,3 +55,19 @@ check the conf.py
 ```
 extensions = ['sphinx.ext.autodoc']
 ```
+
+### autodoc - create *.rst from *.py
+
+under
+sphinx-apidoc -f -o source/ ../python-module-path
+```
+J:\git_home\git1\doc>c:\python27\Scripts\sphinx-apidoc.exe -f -o source ..\mymodule1
+Creating file source\mymodule1.rst.
+Creating file source\mymodule1.b.rst.
+Creating file source\modules.rst.
+```
+
+### make output
+
+> make html
+
