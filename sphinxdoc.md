@@ -50,6 +50,8 @@ Creating file source\mymodule1.b.rst.
 Creating file source\modules.rst.
 ```
 
+> make html
+
 http://www.patricksoftwareblog.com/python-documentation-using-sphinx/
 enable to include source code folder
 Uncomment the following line from ‘…/docs/source/conf.py’ and make it point to the top-level directory in your project:
