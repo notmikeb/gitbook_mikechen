@@ -134,7 +134,7 @@ https://stackoverflow.com/questions/2471804/using-sphinx-with-markdown-instead-o
 
 
 ## sphinx extensions
-
+More support markup
 https://bitbucket.org/birkenfeld/sphinx-contrib
 
 ## .md and .rst comparsion
