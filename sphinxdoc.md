@@ -6,8 +6,10 @@ dos>python -m pip install sphinx
 
 ## .rst tutorial
 http://www.cnblogs.com/zzqcn/p/5096876.html
-``code``
- each paragraph uses blank line as separator
+\`\`code\`\`
+each paragraph uses blank line as separator
+official tutorial of .rst 
+http://docutils.sourceforge.net/rst.html
  
 
 ## Use sphinx to generate html
