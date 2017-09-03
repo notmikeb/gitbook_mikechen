@@ -34,9 +34,9 @@
 * [Bluetooth\_pyusb](bluetoothpyusb.md)
 * [git\_tutorial](gittutorial.md)
 * [textual graphics](textual-graphics.md)
-* [uml\_dot](umldot.md)
-* [uml\_plantuml](umlplantuml.md)
 * [uml\_flow](umlflow.md)
+  * [uml\_plantuml](umlplantuml.md)
+  * [uml\_dot](umldot.md)
 * [bitbucket\_tutorial](bitbuckettutorial.md)
 * [sphinx\_doc](sphinxdoc.md)
 
