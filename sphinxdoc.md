@@ -11,6 +11,8 @@ each paragraph uses blank line as separator
 official tutorial of .rst 
 http://docutils.sourceforge.net/rst.html
  
+## read-the-doc website
+https://read-the-docs.readthedocs.io/en/latest/getting_started.html#in-markdown 
 
 ## Use sphinx to generate html
 ```
@@ -127,3 +129,8 @@ source_suffix = ['.rst', '.md']
 discuss article
 https://stackoverflow.com/questions/2471804/using-sphinx-with-markdown-instead-of-rst
 ```
+
+
+## sphinx extensions
+
+https://bitbucket.org/birkenfeld/sphinx-contrib
