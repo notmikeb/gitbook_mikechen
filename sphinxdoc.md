@@ -4,6 +4,12 @@
 ## install sphinx
 dos>python -m pip install sphinx
 
+## .rst tutorial
+http://www.cnblogs.com/zzqcn/p/5096876.html
+``code``
+ each paragraph uses blank line as separator
+ 
+
 ## Use sphinx to generate html
 ```
 project_workspace
