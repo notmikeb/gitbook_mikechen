@@ -136,3 +136,9 @@ https://stackoverflow.com/questions/2471804/using-sphinx-with-markdown-instead-o
 ## sphinx extensions
 
 https://bitbucket.org/birkenfeld/sphinx-contrib
+
+## .md and .rst comparsion
+discuss
+https://www.zhihu.com/question/19851600
+sample comparsion
+http://www.worldhello.net/gotgithub/appendix/markups.html
