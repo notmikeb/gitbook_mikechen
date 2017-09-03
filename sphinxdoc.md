@@ -93,4 +93,28 @@ In your conf.py file:
 import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+
+
+load ui projects. has error
+use 'if __name__ == "__main__"' to avoid import to autodoc
+
+
+### Markdown in sphinx
+add .md to sphinx 
+install recommonmark
+```
+python -m pip install commonmark recommonmark
+```
+modify conf.py
+```
+from recommonmark.parser import CommonMarkParser
+
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+
+source_suffix = ['.rst', '.md']
+```
+discuss article
+https://stackoverflow.com/questions/2471804/using-sphinx-with-markdown-instead-of-rst
 ```
