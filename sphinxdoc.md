@@ -10,6 +10,8 @@ http://www.cnblogs.com/zzqcn/p/5096876.html
 each paragraph uses blank line as separator
 official tutorial of .rst 
 http://docutils.sourceforge.net/rst.html
+online test sample
+http://rst.ninjs.org/
  
 ## read-the-doc website
 https://read-the-docs.readthedocs.io/en/latest/getting_started.html#in-markdown 
