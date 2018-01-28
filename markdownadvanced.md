@@ -1,15 +1,20 @@
 # Markdown Good Sample
 
-
-
 ## background
 
-## reference and 
+## reference and
 
-Has a reference to use it at 
+Has a reference to use it at
+
+* [https://github.com/kivy/kivy/blob/master/README.md](https://github.com/kivy/kivy/blob/master/README.md)
+* [https://github.com/secdev/scapy/blob/master/README.md](https://github.com/secdev/scapy/blob/master/README.md)
+* [https://github.com/Seedarchangel/TuChart](https://github.com/Seedarchangel/TuChart)
+
+
 
 ```
-[webname]: http://www.kimo.com.tw
+https://github.com/kivy/kivy
+
 ```
 
 picture
