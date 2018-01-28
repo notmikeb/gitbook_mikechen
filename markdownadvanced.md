@@ -1,7 +1,5 @@
 # Markdown Good Sample
 
-## background
-
 ## reference and sample
 
 Has a reference to use it at
@@ -10,9 +8,7 @@ Has a reference to use it at
 * [https://github.com/secdev/scapy/blob/master/README.md](https://github.com/secdev/scapy/blob/master/README.md)
 * [https://github.com/Seedarchangel/TuChart](https://github.com/Seedarchangel/TuChart)
 
-```
-https://github.com/kivy/kivy
-```
+## background
 
 picture
 
