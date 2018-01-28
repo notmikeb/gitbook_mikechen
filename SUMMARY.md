@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [bookmark](bookmark.md)
+* [markdown\_advanced](/markdownadvanced.md)
 * [Hexo - Static Webpages](chapter1.md)
   * [hexo usage](hexo-usage.md)
   * [hexo tutorial](hexo-tutorial.md)
@@ -40,4 +41,6 @@
 * [bitbucket\_tutorial](bitbuckettutorial.md)
 * [sphinx\_doc](sphinxdoc.md)
 * [markdown\_advanced](markdownadvanced.md)
+
+
 
