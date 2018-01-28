@@ -6,7 +6,7 @@ Has a reference to use it at
 
 * [https://github.com/kivy/kivy/blob/master/README.md](https://github.com/kivy/kivy/blob/master/README.md)
 * [https://github.com/secdev/scapy/blob/master/README.md](https://github.com/secdev/scapy/blob/master/README.md)
-* [https://github.com/Seedarchangel/TuChart](https://github.com/Seedarchangel/TuChart)
+* [https://github.com/Seedarchangel/TuChart](https://github.com/Seedarchangel/TuChart/blob/master/README.md)
 
 ## background
 
