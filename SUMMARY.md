@@ -39,4 +39,5 @@
   * [uml\_dot](umldot.md)
 * [bitbucket\_tutorial](bitbuckettutorial.md)
 * [sphinx\_doc](sphinxdoc.md)
+* [markdown\_advanced](markdownadvanced.md)
 
