@@ -6,6 +6,10 @@ git init --bare &lt;repository\_name&gt;
 
 this is used to create a new repository on git\_server
 
+git sample
+
+
+https://agripongit.vincenttunru.com/
 
 
 
