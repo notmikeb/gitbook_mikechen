@@ -10,6 +10,11 @@ This is a tutorial that using git-book software to edit the gitbook webpages
 
 [https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/chapter_6_gitbookgitbook2.html](https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/chapter_6_gitbookgitbook2.html)
 
+study the sync between gitbook and github
+[https://www.oxxostudio.tw/articles/201502/gitbook.html]
+(https://www.oxxostudio.tw/articles/201502/gitbook.html)
+
+
 
 
 An experience sharing
